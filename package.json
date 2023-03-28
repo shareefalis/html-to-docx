@@ -1,5 +1,5 @@
 {
-  "name": "html-to-docx",
+  "name": "html-to-docx-ce",
   "version": "1.8.0",
   "description": "HTML to DOCX converter",
   "keywords": [
@@ -79,7 +79,7 @@
     "mime-types": "^2.1.35",
     "nanoid": "^3.1.25",
     "virtual-dom": "^2.1.1",
-    "xmlbuilder2": "2.1.2"
+    "xmlbuilder2": "2.1.4"
   },
   "lint-staged": {
     "src/**/*.js": [
